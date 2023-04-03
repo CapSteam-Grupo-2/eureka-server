@@ -1,4 +1,4 @@
-package com.capgeTicket.eureka;
+package com.capgeticket.eureka;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
